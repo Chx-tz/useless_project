@@ -13,20 +13,20 @@
 - Member 3: [Pranav Manoj Nair] - [AISAT]
 
 ### Project Description
-[Talk to a robot cus why not.]
+[The Interactive Therapist Chat Program is a web-based software designed to provide users with a safe space to express their emotions through an engaging chat interface. The program utilizes HTML for the front-end user interface and Python (with Flask) for the back-end server logic]
 
 ### The Problem (that doesnt exist)
-[Lonelines]
+[Engagement with Mental Health <3]
 
 ### The Solution (that nobody asked for)
-[Get A Robot to engage in conversation with you cus people won't. ]
+[The Interactive Therapist Chat Program offers a safe, anonymous platform for users to express their emotions, addressing the stigma and hesitation often associated with sharing feelings. By providing guided emotion recognition and a playful disposal mechanism, the program facilitates entertainment,emotional release,self-reflection etc . ]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+- [HTM/CSSL,Python-Languages used]
+- [HTML/CSS,Python,Flask-Frameworks used]
+- [Flask,NumPy-Libraries used]
 - [Tools used]
 
 For Hardware:
