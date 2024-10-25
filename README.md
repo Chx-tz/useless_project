@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Interactive Therapist] 🎯
 
 
 ## Basic Details
@@ -16,7 +16,7 @@
 [Talk to a robot cus why not.]
 
 ### The Problem (that doesnt exist)
-[Loneliness]
+[Lonelines]
 
 ### The Solution (that nobody asked for)
 [Get A Robot to engage in conversation with you cus people won't. ]
