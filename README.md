@@ -4,22 +4,22 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [The Paper Shuffle]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Afin T. Sony] - [AISAT]
+- Member 2: [Shreya Sajalan] - [AISAT]
+- Member 3: [Pranav Manoj Nair] - [AISAT]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Talk to a robot cus why not.]
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### The Problem (that doesnt exist)
+[Loneliness]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Get A Robot to engage in conversation with you cus people won't. ]
 
 ## Technical Details
 ### Technologies/Components Used
