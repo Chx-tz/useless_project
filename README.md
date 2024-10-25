@@ -4,11 +4,11 @@
 
 
 ## Basic Details
-### Team Name: [The Paper Shuffle]
+### Team Name: [The Paper Shufflers]
 
 
 ### Team Members
-- Team Lead: [Afin T. Sony] - [AISAT]
+- Team Lead: [Afin T Sony] - [AISAT]
 - Member 2: [Shreya Sajalan] - [AISAT]
 - Member 3: [Pranav Manoj Nair] - [AISAT]
 
