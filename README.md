@@ -48,19 +48,17 @@ For Hardware:
 For Software: GOOGLE DOCS
 
 # Screenshots (Add at least 3)
-! SMALL PORTION OF HTML CODE
+SMALL PORTION OF HTML CODE
 https://drive.google.com/file/d/1v_xfS13tkKSeOCK4v6PFf1s_XW9Y7Oh7/view?usp=drive_link
 
 
-!SMALL PORTION OF PYTHON CODE
+SMALL PORTION OF PYTHON CODE
 https://drive.google.com/file/d/1H9pEiwwjrFhd-LPDLBMTJULKtwUWsduq/view?usp=drive_link
 
 
-!SMALL PORTION OF JAVA SCRIPT
+SMALL PORTION OF JAVA SCRIPT
 https://drive.google.com/file/d/1qiw_O7jHlPifb3XaprF5duMK5vVPqttb/view?usp=drive_link
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -70,7 +68,7 @@ https://drive.google.com/file/d/1VbbSQ_yqKSA8FagB_s4t11x6XxABUajX/view?usp=drive
 
 
 
-## Team Contributions
+# Team Contributions
 - AFIN T SONY: HTML,Javascript,CSS,Flask
 - PRANAV MANOJ NAIR: Python,Flask
 - SHREYA SAJALAN: Python,Flask
