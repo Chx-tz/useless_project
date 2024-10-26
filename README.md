@@ -37,8 +37,11 @@ For Hardware:
 # Installation
 - VS CODE
 - FLASK
+- RENDER_TEMPLATE
+- REQUEST
 - RANDOM MODULE
 - TKINTER
+- PYTHON LIBRARIES
 
 # Run
 [commands]
