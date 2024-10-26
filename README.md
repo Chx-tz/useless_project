@@ -71,7 +71,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[https://drive.google.com/file/d/1VbbSQ_yqKSA8FagB_s4t11x6XxABUajX/view?usp=drive_link]
+https://drive.google.com/file/d/1VbbSQ_yqKSA8FagB_s4t11x6XxABUajX/view?usp=drive_link
+
 *The video shows the code and atlast shows the main output*
 
 
