@@ -87,9 +87,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [AFIN T SONY]: [HTML,Javascript,CSS]
+- [PRANAV MANOJ NAIR]: [Python]
+- [SHREYA SAJALAN]: [Python]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
