@@ -8,35 +8,37 @@
 
 
 ### Team Members
-- Team Lead: [Afin T Sony] - [AISAT]
-- Member 2: [Shreya Sajalan] - [AISAT]
-- Member 3: [Pranav Manoj Nair] - [AISAT]
+- Team Lead: Afin T Sony - ALBERTAIN INSTITUTE OF SCIENCE AND TECHNOLOGY
+- Member 2: Shreya Sajalan - ALBERTAIN INSTITUTE OF SCIENCE AND TECHNOLOGY
+- Member 3: Pranav Manoj Nair - ALBERTAIN INSTITUTE OF SCIENCE AND TECHNOLOGY
 
 ### Project Description
-[The Interactive Therapist Chat Program is a web-based software designed to provide users with a safe space to express their emotions through an engaging chat interface. The program utilizes HTML for the front-end user interface and Python (with Flask) for the back-end server logic]
+The Interactive Therapist Chat Program is a web-based software designed to provide users with a safe space to express their emotions through an engaging chat interface , it provides an apt comment based on their description. The program utilizes HTML for the front-end user interface and Python (with Flask) for the back-end server logic.
 
 ### The Problem (that doesnt exist)
-[Engagement with Mental Health <3]
+Loneliness and Boredom <3
 
 ### The Solution (that nobody asked for)
-[The Interactive Therapist Chat Program offers a safe, anonymous platform for users to express their emotions, addressing the stigma and hesitation often associated with sharing feelings. By providing guided emotion recognition and a playful disposal mechanism, the program facilitates entertainment,emotional release,self-reflection etc . ]
+The Interactive Therapist Chat Program offers a safe, anonymous platform for users to express their emotions, addressing the stigma and hesitation often associated with sharing feelings. By providing guided emotion recognition and a playful disposal mechanism, the program facilitates entertainment,emotional release,self-reflection etc .
 
 ## Technical Details
 ### Technologies/Components Used
+
 For Software:
-- HTMl/CSS,Python-Languages used
-- HTML/CSS,Python,Flask-Frameworks used
-- Flask,NumPy-Libraries used
-- VS CODE,Chat gpt-Tools used
+- Languages used: HTML,JAVA SCRIPT,CSS,PYTHON
+- Frameworks used: HTML/CSS,PYTHON,FLASK
+- Libraries used: FLASK
+- Tools used: VS CODE,CHAT GPT,YOUTUBE
 
 For Hardware:
 - LAPTOP
 - SMARTPHONE
 
-### Implementation
-For Software:
 # Installation
-[commands]
+- VS CODE
+- FLASK
+- RANDOM MODULE
+- TKINTER
 
 # Run
 [commands]
