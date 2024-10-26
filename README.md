@@ -48,23 +48,16 @@ For Hardware:
 For Software: GOOGLE DOCS
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
+! SMALL PORTION OF HTML CODE
+https://drive.google.com/file/d/1v_xfS13tkKSeOCK4v6PFf1s_XW9Y7Oh7/view?usp=drive_link
 
 
+!SMALL PORTION OF PYTHON CODE
+https://drive.google.com/file/d/1H9pEiwwjrFhd-LPDLBMTJULKtwUWsduq/view?usp=drive_link
 
+
+!SMALL PORTION OF JAVA SCRIPT
+https://drive.google.com/file/d/1qiw_O7jHlPifb3XaprF5duMK5vVPqttb/view?usp=drive_link
 
 ![Final](Add photo of final product here)
 *Explain the final build*
