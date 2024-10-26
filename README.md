@@ -43,8 +43,6 @@ For Hardware:
 - TKINTER
 - PYTHON LIBRARIES
 
-# Run
-[commands]
 
 ### Project Documentation
 For Software: GOOGLE DOCS
@@ -73,7 +71,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1VbbSQ_yqKSA8FagB_s4t11x6XxABUajX/view?usp=drive_link]
 *The video shows the code and atlast shows the main output*
 
 
