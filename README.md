@@ -1,4 +1,4 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+<img width="1280" alt="readme-banner" src="https://drive.google.com/file/d/1DvBCqpd5ks9ZwrrypTPZzO47V1NsrGML/view?usp=drive_link">
 
 # Interactive Therapist 🎯
 
