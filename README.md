@@ -24,20 +24,20 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [HTM/CSSL,Python-Languages used]
+- [HTML/CSS,Python-Languages used]
 - [HTML/CSS,Python,Flask-Frameworks used]
 - [Flask,NumPy-Libraries used]
-- [Tools used]
+- [Github, VScode]
 
 For Hardware:
-- [List main components]
+- [Components used]
 - [List specifications]
 - [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[VScode,pip install tkinter]
 
 # Run
 [commands]
@@ -46,7 +46,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](
+![Python_Code](https://github.com/user-attachments/assets/9533a4d4-bd54-469b-8c07-ae53f5b22b4f)
+)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
