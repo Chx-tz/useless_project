@@ -24,15 +24,14 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [HTM/CSSL,Python-Languages used]
-- [HTML/CSS,Python,Flask-Frameworks used]
-- [Flask,NumPy-Libraries used]
-- [Tools used]
+- HTMl/CSS,Python-Languages used
+- HTML/CSS,Python,Flask-Frameworks used
+- Flask,NumPy-Libraries used
+- VS CODE,Chat gpt-Tools used
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- LAPTOP
+- SMARTPHONE
 
 ### Implementation
 For Software:
@@ -87,9 +86,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [AFIN T SONY]: [HTML,Javascript,CSS]
-- [PRANAV MANOJ NAIR]: [Python]
-- [SHREYA SAJALAN]: [Python]
+- AFIN T SONY: HTML,Javascript,CSS,Flask
+- PRANAV MANOJ NAIR: Python,Flask
+- SHREYA SAJALAN: Python,Flask
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
